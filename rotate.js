@@ -1,4 +1,4 @@
-runlauncher function will require some tinkering for your project and enviroment
+// runlauncher function will require some tinkering for your project and enviroment
 
 CanvasRenderingContext2D.prototype.broadPrint = function(text, x, y, lineHeight, maxWidth) {
   var lines = text.replace(/\s*$/,"").split("\n");
@@ -144,3 +144,5 @@ function runlauncher(e) {
     }
   }
 }
+
+// code subject to licence.txt
