@@ -1,11 +1,1 @@
-Rotate multi-line text on a canvas using a CSS rotate value. I am publishing this as I have not encountered any other way to
-accomplish it. This piece of code is from an old scraped project. You may use it but I am in no way responsible for your use
-of it, it has no guarantees, it has no warranties, even implied warranties and guarantees are null, void, and where possible
-also non-existant. I retain all applicable copyright but do not require attribution or payment in any form, you are free to
-use it in any way conceivable until I say otherwise [this may be on a per-user basis or entierly] so long as you use it with
-moxie, do not republish it (please link), or attempt to charge for this code where it is not part of a derivative work of
-another purpose, and do not use it to directly imitate someone elses complete and functioning works. This code has one known
-kink if the text on a middle or bottom line is longer than the top line the position could be off by the middle or bottom
-lines offset. If you fix this kink please post the solution under this license and link to the original code here. Code does
-not work out of the box and instructions are not included. I am not required to fulfill any obligation in this license and am
-not responsible for any use of this code.
+You may use this code but I am in no way responsible for your use of it, it has no guarantees, it has no warranties, even implied warranties and guarantees are null, void, and where possible also non-existant. I retain all applicable copyright but do not require attribution or payment in any form, you are free to use it in any way conceivable until I say otherwise [this may be on a per-user basis or entierly] so long as you use it with moxie, do not republish it (please link), or attempt to charge for this code where it is not part of a derivative work of another purpose, and do not use it to directly imitate someone else's complete and functioning works. The code does not work out of the box and instructions are not included. I am not required to fulfill any obligation in this license and am not responsible for any use of this code.
