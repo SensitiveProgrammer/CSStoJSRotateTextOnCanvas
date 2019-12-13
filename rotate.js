@@ -1,4 +1,5 @@
-// runlauncher function will require some tinkering for your project and enviroment
+// Does not work out of the box. Instructions not included.
+// The runlauncher function will require some tinkering for your project and enviroment.
 
 CanvasRenderingContext2D.prototype.broadPrint = function(text, x, y, lineHeight, maxWidth) {
   var lines = text.replace(/\s*$/,"").split("\n");
