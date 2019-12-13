@@ -145,4 +145,4 @@ function runlauncher(e) {
   }
 }
 
-// code subject to licence.txt
+// code subject to license.txt
